@@ -12,7 +12,7 @@ Requirements
 Installation
 ------------
 
-1.  Clone this repository: `git clone https://github.com/tufaylasaf/virtualmouse.git`
+1.  Download the latest release or clone this repository: `git clone https://github.com/tufaylasaf/virtualmouse.git`
 2.  Navigate to the project directory: `cd virtualmouse`
 3.  Install the required Python packages: `pip install -r requirements.txt`
 
